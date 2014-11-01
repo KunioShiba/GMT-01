@@ -1,4 +1,4 @@
 GMT-01
 ======
 
-Test repository
+Test repository by Kunio Shiba.
